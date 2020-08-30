@@ -7,6 +7,7 @@ public class Eg1 {
 		// TODO Auto-generated method stub
 		
 		  System.out.println("Step 1");
+		  System.out.println("Step 2");
 		
 
 	}
